@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on interesting projects related to my computernetwork where I can contribute and learn alongside others.
 - 🤔 I’m looking for help with with setting up continuous integration for my GitHub repository.
 - 💬 Ask me about anything related to computer networks and machine learning, study tips, or project ideas – I'm happy to share my knowledge and experiences!
-- 📫 How to reach me: jn657330@gmail.com
+- 📫 How to reach me: jn657330@gmail.com and linkedin at https://www.linkedin.com/feed/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I've won a hotdog eating contest! 🌭🏆
 
